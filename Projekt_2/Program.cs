@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,17 @@ namespace Projekt_2
   {
     static void Main(string[] args)
     {
+      Name();
+      Age();
+    }
+
+    private static void Name()
+    {
+      Console.WriteLine("Paulina");
+    }
+    private static void Age()
+    {
+      Console.WriteLine("29");
     }
   }
 }
