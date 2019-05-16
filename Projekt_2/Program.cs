@@ -10,17 +10,20 @@ namespace Projekt_2
   {
     static void Main(string[] args)
     {
-      Name();
-      Age();
+      string name = Name();
+      string age = Age();
+      Console.WriteLine(name);
+      Console.WriteLine(age);
     }
-
-    private static void Name()
+     
+    static string Name()
     {
-      Console.WriteLine("Paulina");
+      return "Paulina";
     }
-    private static void Age()
+    static string Age()
     {
-      Console.WriteLine("29");
+      return "29";
     }
   }
+
 }
