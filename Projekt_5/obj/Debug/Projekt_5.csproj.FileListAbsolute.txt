@@ -1,0 +1,7 @@
+C:\Users\Palcia\Code\calc\Projekt_5\bin\Debug\Projekt_5.exe.config
+C:\Users\Palcia\Code\calc\Projekt_5\bin\Debug\Projekt_5.exe
+C:\Users\Palcia\Code\calc\Projekt_5\bin\Debug\Projekt_5.pdb
+C:\Users\Palcia\Code\calc\Projekt_5\obj\Debug\Projekt_5.csprojAssemblyReference.cache
+C:\Users\Palcia\Code\calc\Projekt_5\obj\Debug\Projekt_5.csproj.CoreCompileInputs.cache
+C:\Users\Palcia\Code\calc\Projekt_5\obj\Debug\Projekt_5.exe
+C:\Users\Palcia\Code\calc\Projekt_5\obj\Debug\Projekt_5.pdb
