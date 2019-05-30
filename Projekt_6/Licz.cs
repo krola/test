@@ -12,7 +12,7 @@ namespace Projekt_6
 
     public Licz(int a)  //konstruktor
     {
-      A = a;
+      wartosc = a;
     }
     public int Dodaj(int a)
     {
