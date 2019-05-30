@@ -13,7 +13,7 @@ namespace Projekt_5
     int _rok;
     float _cena;
 
-    public Auto(Marka marka, string model, int rok, float cena)
+    public Auto(Marka marka, string model, int rok, float cena)  //konstruktor
     {
       _marka = marka;
       _model = model;
