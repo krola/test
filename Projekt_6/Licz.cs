@@ -8,7 +8,15 @@ namespace Projekt_6
 {
   class Licz
   {
-    public int wartosc = 5;
+    private int wartosc = 5;
+
+    public int Wartosc
+    {
+      get
+      {
+        return wartosc;
+      }
+    }
 
     public Licz(int a)  //konstruktor
     {
