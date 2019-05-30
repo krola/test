@@ -9,7 +9,6 @@ namespace Projekt_6
   class Licz
   {
     public int wartosc = 5;
-    public int A;
 
     public Licz(int a)  //konstruktor
     {
